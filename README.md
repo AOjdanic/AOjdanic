@@ -16,7 +16,7 @@ __I find true joy in understanding how something works on a deeper level. That i
 <img style="background-color:white;" src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" height="50" width="50"/>
 <img style="background-color:white;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4T1YOdxe--UDu6VlEaqifJFs_dIXyiJUM0A&s" height="50" width="50"/>
 <img style="background-color:white;" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-2.svg" height="50" width="50"/>
-<img style="background-color:white;" src="https://static-00.iconduck.com/assets.00/react-icon-512x512-u6e60ayf.png" height="50" width="50"/>
+<img style="background-color:white;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlGmKtrnxElpqw3AExKXPWWBulcwjlvDJa1Q&s" height="50" width="50"/>
 <img style="background-color:white;" src="https://logowik.com/content/uploads/images/nextjs2106.logowik.com.webp" height="50" width="50"/>
 <img style="background-color:white;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW1AvoJXu1NMIvNfwIWMLEX0xp7ZyQ11RjoQ&s" height="50" width="50"/>
 <img style="background-color:white;" src="https://upload.wikimedia.org/wikipedia/commons/4/45/NuxtJS_Logo.png" height="50" width="50"/>

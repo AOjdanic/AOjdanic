@@ -1,15 +1,16 @@
 # Hello there 👋
 
 
-
-### I am a full stack web developer, currently working on frontend side of the web world.
+### I'm a software developer, mainly living in the world of web.
 
 <br/>
 
-__I find true joy in understanding how something works on a deeper level. That is why I'm currently learning C programming language, as the "father" of most modern programming languages, as well as Go, his designated successor.__
+I love when I realize how something actually works.
+
+- Currently learning C
 
 
-## Technologies I have worked with extensively
+### Some of technologies I use professionally or otherwise
 <div style="display:flex;gap:30;">
 <img style="background-color:white;" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/typescript-programming-language-icon.png" height="50" width="50"/>
 <img style="background-color:white;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" height="50" width="50"/>

@@ -7,7 +7,7 @@
 
 I love when I realize how something actually works.
 
-- Currently learning C
+- Currently learning Go
 
 
 ### Some of technologies I use professionally or otherwise

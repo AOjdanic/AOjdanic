@@ -22,7 +22,6 @@
 <img style="background-color:white;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNhoXisDruJMDAq3Ltd-wuaMW2lGxck9wAKw&s" height="50" width="50"/>
 <img style="background-color:white;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfFGMQxd1RBWwVo8YFgAFfNF-FTXLhtZnyzQ&s" height="50" width="50"/>
 <img style="background-color:white;" src="https://logowik.com/content/uploads/images/lua3630.jpg" height="50" width="50"/>
-<img style="background-color:white;" src="https://tanstack.com/_build/assets/logo-color-600w-Er4SOkq1.png" height="50" width="50"/>
 </div>
 
 

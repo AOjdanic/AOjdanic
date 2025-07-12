@@ -12,7 +12,7 @@
 <div style="display:flex;gap:30;">
 <img style="background-color:white;" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/typescript-programming-language-icon.png" height="50" width="50"/>
 <img style="background-color:white;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" height="50" width="50"/>
-<img style="background-color:white;" src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" height="50" width="50"/>
+<img style="background-color:white;" src="https://w7.pngwing.com/pngs/452/24/png-transparent-js-logo-node-logos-and-brands-icon.png" height="50" width="50"/>
 <img style="background-color:white;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4T1YOdxe--UDu6VlEaqifJFs_dIXyiJUM0A&s" height="50" width="50"/>
 <img style="background-color:white;" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-2.svg" height="50" width="50"/>
 <img style="background-color:white;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlGmKtrnxElpqw3AExKXPWWBulcwjlvDJa1Q&s" height="50" width="50"/>

@@ -3,9 +3,7 @@
 
 ### I'm a software developer, living in the world of web.
 
-<br/>
 
-- Currently building an ecommerce website
 
 
 ### Some technologies I work with
